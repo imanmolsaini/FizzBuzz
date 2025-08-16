@@ -19,3 +19,24 @@ FizzBuzz is a popular programming exercise that teaches basic logic, loops, and 
 ## Example
 
 For input `num = 20`, the output will be:
+Welcome to FizzBuzz!
+1
+2
+Fizz
+4
+5
+Fizz
+Buzz
+8
+Fizz
+10
+11
+Fizz
+Almost Fizz
+14
+FizzBuzz
+16
+17
+Fizz
+19
+20
